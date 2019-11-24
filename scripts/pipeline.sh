@@ -7,10 +7,16 @@ echo "#---------------------------------------------"
 echo "# Downloading"
 echo "#---------------------------------------------"
 
-for url in $(cat ./data/urls) 
-do
-    bash scripts/download.sh $url data
-done
+# SOLUCION ORIGINAL
+#for url in $(cat ./data/urls) 
+#do
+#    bash scripts/download.sh $url data
+#done
+
+# SOLUCION BONUX
+wget -P ./data -i ./data/urls
+
+
 echo "#---------------------------------------------"
 echo "# Download the contaminants fasta file, and uncompress it"
 echo "#---------------------------------------------"
