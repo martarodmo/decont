@@ -1,0 +1,20 @@
+./log/cutadapt/SPRET_EiJ.log:Reads with adapters:                   198,838 (99.4%)
+./log/cutadapt/SPRET_EiJ.log:Total basepairs processed:    10,000,000 bp
+./log/cutadapt/C57BL_6NJ.log:Reads with adapters:                   198,349 (99.2%)
+./log/cutadapt/C57BL_6NJ.log:Total basepairs processed:    10,000,000 bp
+./out/star/SPRET_EiJ/Log.final.out:                        Uniquely mapped reads % |	2.89%
+./out/star/SPRET_EiJ/Log.final.out:             % of reads mapped to multiple loci |	4.21%
+./out/star/SPRET_EiJ/Log.final.out:             % of reads mapped to too many loci |	1.15%
+./out/star/C57BL_6NJ/Log.final.out:                        Uniquely mapped reads % |	3.18%
+./out/star/C57BL_6NJ/Log.final.out:             % of reads mapped to multiple loci |	4.56%
+./out/star/C57BL_6NJ/Log.final.out:             % of reads mapped to too many loci |	0.77%
+./log/cutadapt/SPRET_EiJ.log:Reads with adapters:                   198,838 (99.4%)
+./log/cutadapt/SPRET_EiJ.log:Total basepairs processed:    10,000,000 bp
+./log/cutadapt/C57BL_6NJ.log:Reads with adapters:                   198,349 (99.2%)
+./log/cutadapt/C57BL_6NJ.log:Total basepairs processed:    10,000,000 bp
+./out/star/SPRET_EiJ/Log.final.out:                        Uniquely mapped reads % |	2.89%
+./out/star/SPRET_EiJ/Log.final.out:             % of reads mapped to multiple loci |	4.21%
+./out/star/SPRET_EiJ/Log.final.out:             % of reads mapped to too many loci |	1.15%
+./out/star/C57BL_6NJ/Log.final.out:                        Uniquely mapped reads % |	3.18%
+./out/star/C57BL_6NJ/Log.final.out:             % of reads mapped to multiple loci |	4.56%
+./out/star/C57BL_6NJ/Log.final.out:             % of reads mapped to too many loci |	0.77%
