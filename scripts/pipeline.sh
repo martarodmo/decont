@@ -1,7 +1,20 @@
+#!/bin/bash
+
 #Download all the files specified in data/filenames
 echo "##############################################"
 echo "# START"
 echo "##############################################"
+
+# SOLUCION BONUS 2
+echo "#---------------------------------------------"
+echo "# Checking in output already exists"
+echo "#---------------------------------------------"
+
+if [ -d "./out/" ]; then
+	echo "Output directory already exists."
+else
+	echo "Output directory does not exist."
+fi
 
 echo "#---------------------------------------------"
 echo "# Downloading"
@@ -13,7 +26,7 @@ echo "#---------------------------------------------"
 #    bash scripts/download.sh $url data
 #done
 
-# SOLUCION BONUX
+# SOLUCION BONUS 1
 wget -P ./data -i ./data/urls
 
 
