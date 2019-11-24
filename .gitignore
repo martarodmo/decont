@@ -5,6 +5,6 @@ res/*
 !res/.gitkeep
 data/*
 !data/.gitkeep
-!data/urls
+!data/filenames
 log/*
 !log/.gitkeep
